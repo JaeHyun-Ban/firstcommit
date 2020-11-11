@@ -1,4 +1,9 @@
 firstcommit~~~~~
 second commit~~!!
 
+
 B가 먼저 수정했지롱
+
+A가 열심히 수정수정중...
+
+둘다 잘했어요
